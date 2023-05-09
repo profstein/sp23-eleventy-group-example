@@ -2,7 +2,9 @@
   ADD YOUR LAYOUT CSS HERE
   ================================================ */
 //This is not necessary. Opinionated to remove default margin from body to allow things to go all the way across the screen.
-
+.moni{
+  display: grid;
+}
 .site-footer{
   clear: both;
 }
